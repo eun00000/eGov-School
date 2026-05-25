@@ -68,9 +68,9 @@
 | GitHub | 직책 | 담당 영역 |
 | :--- | :--- | :--- |
 | [@KGyeongSu](https://github.com/KGyeongSu) | **PM** | 프로젝트 총괄 및 일정 관리, 전체 시스템 흐름 정의, 메인페이지·공통 기능 개발, **Spring Security 설계** |
-| [@eun00000](https://github.com/eun00000) | DA | 데이터베이스 설계 및 관리, **강사 대시보드** 개발 |
-| [@SangWoo1124](https://github.com/SangWoo1124) | BA | 요구사항 분석 및 화면 설계, **수강생 대시보드** 개발 |
-| [@jini9786](https://github.com/jini9786) | AA | 시스템 아키텍처 설계, **관리자 대시보드** 개발 |
+| [@eun00000](https://github.com/eun00000) | **DA** | 데이터베이스 설계 및 관리, 일정관리, **강사 대시보드** 개발 |
+| [@SangWoo1124](https://github.com/SangWoo1124) | **BA** | 요구사항 분석 및 화면 설계, **수강생 대시보드** 개발 |
+| [@jini9786](https://github.com/jini9786) | **AA** | 시스템 아키텍처 설계, **관리자 대시보드** 개발 |
 
 <br>
 
